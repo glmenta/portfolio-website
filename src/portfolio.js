@@ -49,9 +49,7 @@ const skillsSection = {
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
     emoji("⚡ Engineer backend APIs"),
-    emoji(
-      "⚡ Integration of third party services such as AWS"
-    )
+    emoji("⚡ Integration of third party services such as AWS")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -226,7 +224,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: false// Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -234,8 +232,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Projects and Achievements 🏆 "),
-  subtitle:
-    "Achievements and Some Cool Stuff that I have done !",
+  subtitle: "Achievements and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
@@ -276,7 +273,7 @@ const achievementSection = {
           url: "https://keebcraft-capstone.onrender.com"
         }
       ]
-    },
+    }
 
     // {
     //   title: "PWA Web App Developer",
