@@ -20,6 +20,9 @@
     "react-twitter-embed": "3.0.3",
     "sass": "^1.69.2"
   },
+  "resolutions": {
+    "eslint-webpack-plugin": "2.5.4"
+  },
   "scripts": {
     "predeploy": "npm run build",
     "start": "node fetch.js && react-scripts start",
